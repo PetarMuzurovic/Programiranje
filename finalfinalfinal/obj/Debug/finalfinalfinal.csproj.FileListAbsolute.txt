@@ -1,0 +1,17 @@
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.csprojAssemblyReference.cache
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.Form1.resources
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.Properties.Resources.resources
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.csproj.GenerateResource.cache
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\finalfinalfinal\bin\Debug\finalfinalfinal.exe.config
+C:\Users\pedja\source\repos\finalfinalfinal\bin\Debug\finalfinalfinal.exe
+C:\Users\pedja\source\repos\finalfinalfinal\bin\Debug\finalfinalfinal.pdb
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.exe
+C:\Users\pedja\source\repos\finalfinalfinal\obj\Debug\finalfinalfinal.pdb
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.csprojAssemblyReference.cache
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.Form1.resources
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.Properties.Resources.resources
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.csproj.GenerateResource.cache
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.csproj.CoreCompileInputs.cache
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.exe
+C:\Users\Peky\Desktop\finalfinalfinal\obj\Debug\finalfinalfinal.pdb
